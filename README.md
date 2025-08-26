@@ -4,13 +4,7 @@ Applications of machine intelligence to board and related replacement functions.
 
 ## Overview
 
-Artificial intelligence will allow solutions to a number of governance-related 
-problems that exist today. The phrase 'conflict of interest' is used to refer 
-to some of these problems. The phrase is inherently absurd, of course, because
-it suggests that a person would not be loyal first and foremost to himself. The
-existence of a counterparty is not what creates the conflict. It is the existence
-of a self.
-
+I see a gap; I wish to drive through it.
 A corporation need not be similarly burdened. Corporations are infinitely lived and
 separate from their owners. They are also separate from their employees and others.
 Separation is now as between the corporation and its managers.
