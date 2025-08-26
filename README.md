@@ -23,12 +23,13 @@ relationships.
 
 As such, in the first instance, we would like corporations to act reasonably, 
 predictably and, most of all, honorably. So, not in a filing cabinet in 
-Delaware but on actual hardware. It should be able to speak for itself, 
+Delaware but on actual hardware. It should be able to speak for itself, and
 including as to its relationships with others. It should have its own 
-representatives and it should be effective in the exercise of command 
-and control functions in respect of those representatives. 
+representatives and it should be effective in the exercise of command and 
+control functions in respect of those representatives. 
 
-
+Second, a corporation should act like a person in respect of its business 
+dealings, including in complex environments.
 
 ==== Alternate. To review.  ====
 
