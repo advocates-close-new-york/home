@@ -20,6 +20,7 @@ our wits. We should not run companies that way either.
 
 
 ==== Alternate. To review.  ====
+
 Strongly typed data has a number of advanteous properties. In the sense that all of
 machine learning arises out of linear algebra, the ability to retain some amount of
 information as to the domain on which an object may be sensibly defined is useful. 
