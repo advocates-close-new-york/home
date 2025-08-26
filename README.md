@@ -4,18 +4,29 @@ Applications of machine intelligence to board and related replacement functions.
 
 ## Overview
 
-Technologists have among themselves a mantra. They say: `DRY` for the phrase
-`do not repeat yourself`. A world in which human beings do not repeat themselves
-is a world in which they are able to say a thing once and then move on to the 
-next thing. Their progress compounds upon itself. The results are, of course, 
-breathtaking. Almost no part of American life has not been influenced in some
-way by their success. Almost.
+Artificial intelligence will allow solutions to a number of governance-related 
+problems that exist today. The phrase 'conflict of interest' is used to refer 
+to some of these problems. The phrase is inherently absurd, of course, because
+it suggests that a person would not be loyal first and foremost to himself. The
+existence of a counterparty is not what creates the conflict. It is the existence
+of a self.
 
-The corporate manager has been vilified for hundreds of years. Today, corporations
-have more in common with a passenger airliner than they do with a `business` of 
-any kind. Corporations are complex. We do not fly airplanes with nothing more than
-our wits. We should not run companies that way either.
+A corporation need not be similarly burdened. Corporations are infinitely lived and
+separate from their owners. They are also separate from their employees and others.
+Separation is now as between the corporation and its managers.
 
+The management of one's manager ought not be burdensome, newsworthy or interesting
+in any way. Corporations act through documents. Their actions ought to be predic-
+table. The fact that they are not is problematic for owners. It is problematic
+for the corporation qua corporation. And it is harmful to the corporation's 
+relationships. 
+
+As such, in the first instance, we would like corporations to act reasonably, 
+predictably and, most of all, honorably. So, not in a filing cabinet in 
+Delaware but on actual hardware. It should be able to speak for itself, 
+including as to its relationships with others. It should have its own 
+representatives and it should be effective in the exercise of command 
+and control functions in respect of those representatives. 
 
 
 
