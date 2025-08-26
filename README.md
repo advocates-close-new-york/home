@@ -4,18 +4,22 @@ Applications of machine intelligence to board and related replacement functions.
 
 ## Overview
 
-The board of directors of a Delaware corporation owes its existence in some ways to
-what is known as the `business judgment rule`. Briefly, this is the idea that, in 
-general, Delaware courts will not, for example, make a board of directors explain 
-its decisions to a court. They will defer to the business judgment of the directors.
+Technologists have among themselves a mantra. They say: `DRY` for the phrase
+`do not repeat yourself`. A world in which human beings do not repeat themselves
+is a world in which they are able to say a thing once and then move on to the 
+next thing. Their progress compounds upon itself. The results are, of course, 
+breathtaking. Almost no part of American life has not been influenced in some
+way by their success. Almost.
 
-Whether or not they should do so is a question that does not interest us here because
-there is no other game in town. There should be.
+The corporate manager has been vilified for hundreds of years. Today, corporations
+have more in common with a passenger airliner than they do with a `business` of 
+any kind. Corporations are complex. We do not fly airplanes with nothing more than
+our wits. We should not run companies that way either.
 
-Machine learning is the proposition that computers can be programmed to do more than
-what they did ten years ago. There is a sense in which they do. There is a real sense
-in which they could do so quite a lot more than they do now.
 
+
+
+==== Alternate. To review.  ====
 Strongly typed data has a number of advanteous properties. In the sense that all of
 machine learning arises out of linear algebra, the ability to retain some amount of
 information as to the domain on which an object may be sensibly defined is useful. 
